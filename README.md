@@ -1,4 +1,4 @@
 # Running Technique
-    `pip install fastapi
+    pip install fastapi
 
-    `uvicorn main:app --reload
+    uvicorn main:app --reload
